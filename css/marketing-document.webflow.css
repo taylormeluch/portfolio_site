@@ -1,0 +1,1057 @@
+.hero {
+  background-image: url('../images/resq-background.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.hero.resq {
+  background-image: url('../images/example-bg.png');
+  background-position: 0px 0px;
+  background-size: 125px;
+}
+
+.div-block {
+  position: absolute;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 28px;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: transparent;
+  text-align: center;
+}
+
+.div-block-2 {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 3px;
+  background-color: #fff;
+  box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.25);
+}
+
+.heading {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+  line-height: 1;
+  font-weight: 400;
+}
+
+.row {
+  padding-top: 15px;
+}
+
+.column {
+  padding-right: 23px;
+  padding-left: 37px;
+}
+
+.column-2 {
+  padding-right: 23px;
+  padding-left: 23px;
+}
+
+.column-3 {
+  padding-right: 37px;
+  padding-left: 23px;
+}
+
+.heading-2 {
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.heading-2.whatido {
+  padding-top: 27px;
+  font-size: 18px;
+}
+
+.heading-2.whatido.work {
+  margin-top: 0px;
+}
+
+.div-block-3 {
+  padding-bottom: 75px;
+}
+
+.heading-3 {
+  display: block;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  padding-top: 50px;
+  padding-bottom: 0px;
+  font-family: 'Avenir 05', sans-serif;
+  font-size: 51px;
+  text-align: center;
+}
+
+.heading-3.resq {
+  margin-top: -14px;
+  padding-top: 0px;
+}
+
+.heading-3.what-i-do-heading {
+  padding-top: 55px;
+  padding-bottom: 25px;
+  font-size: 41px;
+}
+
+.heading-3.what-i-do-heading.deatils-heading {
+  padding-bottom: 50px;
+}
+
+.heading-3.what-i-do-heading.my-work-heading {
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+.div-block-4 {
+  position: absolute;
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 79px;
+}
+
+.heading-4 {
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 10px;
+  font-family: 'Avenir 03', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+}
+
+.div-block-5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: auto;
+  max-width: 500px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 46px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  background-color: transparent;
+}
+
+.div-block-6 {
+  position: absolute;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: auto;
+  padding-top: 59px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.heading-5 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Avenir 05', sans-serif;
+  font-size: 28px;
+  line-height: 35px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.text-block {
+  padding-top: 17px;
+  font-family: Varela, sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+.link {
+  display: block;
+  width: 100%;
+  max-width: 175px;
+  margin-top: 29px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 2px solid #ff1960;
+  border-radius: 30px;
+  background-color: transparent;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  font-family: Montserrat, sans-serif;
+  color: #ff1960;
+  font-size: 13px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.link:hover {
+  background-color: #ff1960;
+  color: #fff;
+}
+
+.link.resume {
+  margin-top: 0px;
+  font-family: 'Avenir book 01', sans-serif;
+  font-size: 14px;
+}
+
+.link.headerbutton {
+  margin-top: 4px;
+  float: left;
+  clear: left;
+}
+
+.link.headerbutton.w--current {
+  float: none;
+  clear: none;
+}
+
+.link.headerbutton.goback {
+  margin-top: 16px;
+}
+
+.link.headerbutton.home {
+  float: none;
+  clear: none;
+  font-family: 'Avenir book 01', sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+.link.headerbutton.home.resqbutton {
+  margin-top: 22px;
+  margin-bottom: 0px;
+  margin-left: 27px;
+  float: left;
+  clear: left;
+}
+
+.image {
+  max-width: auto;
+}
+
+.image-2 {
+  display: block;
+}
+
+.portfolio {
+  padding-bottom: 60px;
+  background-image: url('../images/tmeluch-sec-bg.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.div-block-7 {
+  display: block;
+  width: 100%;
+  height: 500px;
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.div-block-8 {
+  display: block;
+  width: 100%;
+  height: 200px;
+  max-width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: url('../images/UI-tile.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.div-block-8:hover {
+  background-image: url('../images/UI-tile-hover.jpg'), url('../images/UI-tile.jpg');
+  background-position: 50% 50%, 50% 50%;
+  background-size: cover, cover;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.div-block-8.tech {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: url('../images/tech-tile.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.column-4 {
+  padding-right: 0px;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.text-block-2 {
+  width: 100%;
+  height: 200px;
+  max-width: 300px;
+  padding-top: 8px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 12px;
+}
+
+.text-block-2:hover {
+  background-color: transparent;
+}
+
+.lightbox-link {
+  width: 100%;
+  max-width: 300%;
+}
+
+.row-2 {
+  padding-bottom: 30px;
+}
+
+.heading-6 {
+  padding-top: 71px;
+}
+
+.heading-7 {
+  padding-top: 60px;
+}
+
+.div-block-9 {
+  display: block;
+  width: 100%;
+  height: 5px;
+  max-width: 60px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #ff7327;
+}
+
+.div-block-9.techline {
+  background-color: #ffc213;
+}
+
+.div-block-9.logos {
+  background-color: #8547cd;
+}
+
+.div-block-9.iconography {
+  background-color: #ff1960;
+}
+
+.div-block-9.infographics {
+  background-color: #b6b6b6;
+}
+
+.div-block-9.volunteer {
+  background-color: #4de3c0;
+}
+
+.details {
+  height: auto;
+  margin-top: 100px;
+  padding-top: 40px;
+  padding-bottom: 150px;
+  background-color: #efefef;
+}
+
+.div-block-10 {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.heading-8 {
+  padding-top: 27px;
+  padding-bottom: 24px;
+  font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.heading-8.details {
+  padding-top: 50px;
+}
+
+.heading-9 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 30px;
+  font-family: 'Avenir 05', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+}
+
+.text-block-3 {
+  font-family: 'Avenir book 01', sans-serif;
+  color: rgba(18, 31, 68, 0.8);
+  font-size: 14px;
+  text-align: center;
+}
+
+.section {
+  position: relative;
+  z-index: 1;
+  height: 1000000px;
+  background-color: #000;
+}
+
+.heading-10 {
+  color: #fff;
+}
+
+.navbar {
+  background-color: #fff;
+}
+
+.div-block-11 {
+  background-color: #fff;
+}
+
+.content {
+  background-color: #1f0048;
+}
+
+.facts {
+  padding-top: 10px;
+}
+
+.text-block-4 {
+  display: block;
+  width: 100%;
+  max-width: 850px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 44px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 30px;
+  line-height: 33px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.text-block-4.textbottom {
+  padding-top: 0px;
+  padding-bottom: 73px;
+}
+
+.text-block-4.butwhy {
+  padding-top: 0px;
+}
+
+.text-block-4.butwhy.problemstatement {
+  padding-top: 25px;
+}
+
+.italic-text {
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.topheading {
+  display: block;
+  margin: 0px auto;
+  padding-top: 17px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+}
+
+.topheading.problemheader {
+  padding-top: 51px;
+}
+
+.topheading.solutionheading {
+  padding-top: 49px;
+}
+
+.div-block-12 {
+  display: block;
+  width: 70px;
+  height: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #dc6f5b;
+}
+
+.why.problemstatement {
+  padding-top: 38px;
+  padding-bottom: 74px;
+}
+
+.why.sitemap {
+  padding-top: 46px;
+}
+
+.why.sketches {
+  padding-top: 48px;
+}
+
+.div-block-13 {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-block-5 {
+  padding-top: 31px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+}
+
+.text-block-5.needsandwants {
+  font-size: 30px;
+  line-height: 33px;
+  font-weight: 300;
+}
+
+.heading-11 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
+
+.text-span {
+  color: #29d7d8;
+  font-weight: 700;
+}
+
+.column-5 {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.column-6 {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.column-7 {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+
+.section-2 {
+  height: 300px;
+  background-image: url('../images/affinity-map.jpg'), url('../images/example-bg.png');
+  background-position: 50% 50%, 0px 0px;
+  background-size: auto, 125px;
+  background-repeat: no-repeat, repeat;
+}
+
+.row-3 {
+  display: block;
+  width: 100%;
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 29px;
+}
+
+.text-span-2 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.column-8 {
+  padding-left: 31px;
+}
+
+.image-4 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 45px;
+}
+
+.div-block-14 {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-block-6 {
+  padding-top: 15px;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 30px;
+  line-height: 33px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.image-5 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 27px;
+}
+
+.row-4 {
+  padding-top: 33px;
+}
+
+.bg-image {
+  height: 350px;
+  background-image: url('../images/ux-bg.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bottomsection {
+  background-color: #1f0048;
+}
+
+.ut {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.heading-12 {
+  font-family: Montserrat, sans-serif;
+  color: #29d7d8;
+  font-size: 15px;
+  text-align: center;
+}
+
+.text-block-7 {
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.image-6 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.link-2 {
+  display: block;
+  width: 100%;
+  max-width: 275px;
+  margin-top: 33px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 2px solid #fff;
+  border-radius: 100px;
+  background-color: transparent;
+  color: #fff;
+  text-align: center;
+}
+
+.div-block-15 {
+  padding-top: 41px;
+}
+
+.div-block-15.button {
+  padding-top: 59px;
+}
+
+.link-3 {
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.div-block-16 {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 27px;
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+.section-3 {
+  height: 100000px;
+  background-color: #000;
+}
+
+.websiteredesign {
+  height: 350px;
+}
+
+.section-4 {
+  height: 1000px;
+  background-color: #000;
+}
+
+.section-5 {
+  height: 25000px;
+}
+
+.heading-13 {
+  margin-top: 10px;
+  font-family: 'Avenir book 01', sans-serif;
+  color: rgba(18, 31, 68, 0.8);
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+.bold-text {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-2 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-3 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-4 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-5 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-6 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-7 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-8 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.bold-text-9 {
+  font-family: 'Avenir 03', sans-serif;
+}
+
+.div-block-17 {
+  height: 200000px;
+}
+
+@media (max-width: 991px) {
+  .heading-3 {
+    padding-top: 0px;
+  }
+  .ux {
+    padding-top: 85px;
+  }
+  .div-block-5 {
+    display: block;
+    width: 100%;
+    max-width: 375px;
+    margin-top: -60px;
+    padding-top: 13px;
+  }
+  .portfolio {
+    padding-top: 53px;
+  }
+}
+
+@media (max-width: 767px) {
+  .div-block {
+    position: static;
+  }
+  .heading-3 {
+    margin-top: -44px;
+    padding-top: 0px;
+  }
+  .ux {
+    padding-top: 25px;
+  }
+  .div-block-5 {
+    width: 40%;
+    padding-top: 0px;
+  }
+  .div-block-6 {
+    position: static;
+    height: 350px;
+    background-image: url('../images/tmeluch-ux-bg-wide.jpg');
+    background-position: 50% 50%;
+    background-size: 834px;
+  }
+  .image-2 {
+    display: none;
+  }
+  .image-3 {
+    display: none;
+  }
+  .div-block-8 {
+    margin-top: 45px;
+  }
+}
+
+@media (max-width: 479px) {
+  .hero {
+    height: 1200px;
+    background-image: url('../images/tmeluch-header-mobile-bg.jpg');
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .div-block {
+    position: static;
+    height: auto;
+  }
+  .div-block-2 {
+    position: static;
+    height: auto;
+    padding-bottom: 0px;
+  }
+  .column {
+    padding-right: 0px;
+    padding-bottom: 25px;
+    padding-left: 0px;
+  }
+  .column-2 {
+    padding-right: 0px;
+    padding-bottom: 25px;
+    padding-left: 0px;
+  }
+  .column-3 {
+    padding-right: 0px;
+    padding-bottom: 25px;
+    padding-left: 0px;
+  }
+  .heading-2.whatido {
+    margin-top: 0px;
+  }
+  .heading-2.whatido.work {
+    margin-top: 127px;
+  }
+  .div-block-3 {
+    height: auto;
+    padding-bottom: 33px;
+  }
+  .heading-3 {
+    padding-top: 0px;
+    line-height: 60px;
+  }
+  .div-block-4 {
+    padding-top: 137px;
+  }
+  .ux {
+    height: 400px;
+  }
+  .div-block-5 {
+    width: 70%;
+    max-width: 300px;
+  }
+  .div-block-6 {
+    position: static;
+    display: block;
+    height: 475px;
+    padding-top: 90px;
+    background-image: url('../images/mobile-ux-bg.jpg');
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .heading-5 {
+    margin-top: 10px;
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .link {
+    margin-top: 20px;
+  }
+  .link.resume {
+    margin-top: 21px;
+  }
+  .image {
+    display: none;
+  }
+  .image-2 {
+    display: none;
+  }
+  .image-3 {
+    display: none;
+  }
+  .portfolio {
+    height: 1550px;
+    margin-top: 112px;
+    margin-bottom: -9px;
+    padding-top: 0px;
+  }
+  .div-block-8 {
+    margin-top: 23px;
+    margin-bottom: 2px;
+  }
+  .heading-8 {
+    padding-top: 83px;
+  }
+  .heading-8.details {
+    margin-bottom: 0px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+  .heading-9 {
+    padding-top: 48px;
+  }
+}
+
+@font-face {
+  font-family: 'Avenir 03';
+  src: url('../fonts/Avenir-Black-03.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir 07';
+  src: url('../fonts/Avenir-Light-07.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir 04';
+  src: url('../fonts/Avenir-BlackOblique-04.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Avenir 02';
+  src: url('../fonts/Avenir-BookOblique-02.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Avenir book 01';
+  src: url('../fonts/Avenir-Book-01.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir roman 12';
+  src: url('../fonts/Avenir-Roman-12.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir 06';
+  src: url('../fonts/Avenir-HeavyOblique-06.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Avenir 11';
+  src: url('../fonts/Avenir-Oblique-11.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Avenir 10';
+  src: url('../fonts/Avenir-MediumOblique-10.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Avenir 09';
+  src: url('../fonts/Avenir-Medium-09.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Avenir 08';
+  src: url('../fonts/Avenir-LightOblique-08.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Avenir 05';
+  src: url('../fonts/Avenir-Heavy-05.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
